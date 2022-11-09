@@ -314,6 +314,7 @@
 [Poptrox](https://github.com/99kyuu/Poptrox_for_Typecho) | jQuery版全能灯箱弹窗Poptrox插件 | 0.01 | [玖玖kyuu](https://github.com/99kyuu) | [下载](https://github.com/99kyuu/Poptrox_for_Typecho/archive/master.zip)
 [PostFormat](https://github.com/fengyiyi/PostFormat) | Typecho用九种文章类型字段插件 | 1.0.0 | [mufeng](https://github.com/iMuFeng) | [不可用](https://github.com/fengyiyi/PostFormat/archive/master.zip)
 [PostSeries](https://github.com/hongweipeng/PostSeries) | Typecho建立与管理专题文章插件 | 0.0.1 | [hongweipeng](https://github.com/hongweipeng) | [下载](https://github.com/hongweipeng/PostSeries/archive/master.zip)
+[PostToBingIndexNow](https://github.com/TwoThreeWang/PostToBingIndexNow) | 	当发布文章时,自动将文章提交到 Bing 站长平台 | 1.0 | [TwoThreeWang](https://github.com/TwoThreeWang) | [下载](https://github.com/TwoThreeWang/PostToBingIndexNow/archive/refs/heads/main.zip)
 [PostToQzone](https://github.com/typecho/plugins/tree/master/PostToQzone) | QQ邮箱同步发布文到Qzone插件 | 1.0 beta | [blankyao](https://github.com/blankyao) | [不可用](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/PostToQzone.zip)
 [PostToSinaToutiao](https://github.com/jiyeme/PostToSinaToutiao) | 同步发布文章到新浪微博头条插件 | 1.0.6 | [祭夜](https://github.com/jiyeme) | [下载](https://github.com/jiyeme/PostToSinaToutiao/archive/master.zip)
 [PreTransformer](https://github.com/imwis/PreTransformer) | 指定标签内代码转为Html实体插件 | 2.2.0 | [Wis Chu](https://github.com/imwis) | [下载](https://github.com/imwis/PreTransformer/archive/master.zip)
